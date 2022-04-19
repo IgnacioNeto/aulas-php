@@ -53,3 +53,17 @@ echo $aluno;
 - [ ] Briefing
 - [x] Rascunhos
 - [ ] Design
+
+## Tabelas
+
+Cliente | Idade | Cidade
+--- |  --- | ---
+João | 25 | São Paulo
+Maria | 35 | SCS
+Amanda | 20 | São Paulo
+
+## Emoji
+
+:Heart:
+
+:star:
