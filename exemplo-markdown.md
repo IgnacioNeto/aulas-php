@@ -64,6 +64,6 @@ Amanda | 20 | São Paulo
 
 ## Emoji
 
-:Heart:
+:heart:
 
 :star:
